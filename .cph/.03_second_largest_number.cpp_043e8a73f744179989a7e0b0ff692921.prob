@@ -1,0 +1,1 @@
+{"name":"Local: 03_second_largest_number","url":"d:\\placement\\CPP One Shot\\07_Array\\03_second_largest_number.cpp","tests":[{"id":1710253806886,"input":"6\n10 5 12 6 9 20","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\placement\\CPP One Shot\\07_Array\\03_second_largest_number.cpp","group":"local","local":true}
